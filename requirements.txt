@@ -1,0 +1,6 @@
+click==8.1.7
+python-frontmatter==0.6.0
+Jinja2==3.1.2
+pypandoc==1.10.1
+watchdog==3.0.0
+pytest==7.4.0
