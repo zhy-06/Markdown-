@@ -1,0 +1,7 @@
+notes_path: "./notes"
+index_db: "./.md_index/db.sqlite"
+export:
+  template: "templates/default.html"
+  formats:
+    - "html"
+    - "pdf"
